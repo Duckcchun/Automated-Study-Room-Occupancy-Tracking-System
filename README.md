@@ -1,5 +1,5 @@
 # 자양한강도서관 스터디 공간 자동 인원 카운팅 시스템
-2026 자양한강도서관 운영 개선 프로젝트
+2026 하계방학 집중근로 프로그램 중
 
 별도의 앱 설치 없이, 웹캠 기반 AI와 웹 대시보드로 스터디 공간 인원을 자동 집계하는 시스템입니다.
 
@@ -120,14 +120,6 @@ docker compose --profile edge up edge
 - `app/page.tsx`는 Next.js App Router의 실제 진입점입니다.
 - `windows-setup.ps1`, `windows-run-edge.ps1`, `windows-run-web.ps1`, `windows-run-all.ps1`, `launch-all.ps1`는 새 Windows 노트북에서 바로 실행할 수 있는 런처입니다.
 
-## ✅ 필요한 정보
-
-GitHub 업로드나 발표 자료를 더 완성도 있게 만들고 싶다면 아래 정보가 추가되면 좋습니다.
-
-- 프로젝트 최종 발표용 대표 이미지 또는 스크린샷
-- 작성자 이름 또는 팀명
-- 발표용 한 줄 소개
-- 필요 시 연락처 또는 이메일
 
 ## 📌 참고
 
