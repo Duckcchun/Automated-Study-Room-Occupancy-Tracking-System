@@ -1,0 +1,14 @@
+.next
+node_modules
+out
+dist
+coverage
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.venv
+__pycache__
+*.pyc
+*.tsbuildinfo
